@@ -4,7 +4,7 @@
 
 <div align="center">
   <b>
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Challenge</a> | <a href="https://kierenhamps.github.io/frontend-mentor-qr-code-component/">Live Site</a>
+    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Challenge</a> | <a href="https://kierenhamps.github.io/frontend-mentor-qr-code-component/" target="_blank">Live Site</a>
   </b>
 </div>
 
