@@ -4,7 +4,7 @@
 
 <div align="center">
   <b>
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Challenge</a> | <a href="https://kierenhamps.github.io/frontend-mentor-qr-code-component/" target="_blank">Live Site</a>
+    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Challenge</a> | <a href="https://kierenhamps.github.io/frontend-mentor-qr-code-component/" target="_blank">Live Site</a> | <a href="https://www.frontendmentor.io/solutions/tailwindcss-flexbox-solution-e4KBNMPHas" target="_blank">Solution</a>
   </b>
 </div>
 
